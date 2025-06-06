@@ -1,5 +1,6 @@
 ## Essentials of GitHub Actions learning pathway demo repository
-
+I am tryoing to test the badge.
+[![build-test-deploy](https://github.com/Spoorthinbhat/actions-learning-pathway/actions/workflows/build.yml/badge.svg)](https://github.com/Spoorthinbhat/actions-learning-pathway/actions/workflows/build.yml)
 This repository contains the core web application files and configuration you'll need to follow along through the [Essentials of automated application deployment with GitHub Actions & GitHub Pages](https://resources.github.com/learn/pathways/automation/essentials/automated-application-deployment-with-github-actions-and-pages/) module.
 
 To follow along with the step-by-step instructions in the Essentials module, you will need to create a copy of this repository by doing the following:
